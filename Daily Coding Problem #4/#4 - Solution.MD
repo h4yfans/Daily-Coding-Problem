@@ -1,15 +1,3 @@
-Daily Coding Problem #4
-
-**Problem**
-
-This problem was asked by Stripe.
-
-Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
-
-For example, the input `[3, 4, -1, 1]` should give `2`. The input `[1, 2, 0]` should give `3`.
-
-You can modify the input array in-place.
-
 **Solution**
 
 Our lives would be easier without the linear time constraint: we would just sort the array, while filtering out negative numbers, and iterate over the sorted array and return the first number that doesn't match the index. However, sorting takes O(n log n), so we can't use that here.
