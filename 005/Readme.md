@@ -1,6 +1,4 @@
-Daily Coding Problem #5
-
-**Problem**
+### Daily Coding Problem #5
 
 This problem was asked by Jane Street.
 
@@ -12,6 +10,5 @@ Given this implementation of cons:
         def pair(f):
             return f(a, b)
         return pair
-    
 
 Implement `car` and `cdr`.
