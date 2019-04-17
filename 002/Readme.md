@@ -1,6 +1,4 @@
-Daily Coding Problem #2
-
-**Problem**
+###Daily Coding Problem #2
 
 This problem was asked by Uber.
 

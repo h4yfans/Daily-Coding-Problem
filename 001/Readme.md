@@ -1,6 +1,4 @@
-Daily Coding Problem #1
-
-**Problem**
+###Daily Coding Problem #1
 
 This problem was recently asked by Google.
 
