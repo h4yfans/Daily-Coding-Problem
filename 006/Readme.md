@@ -1,4 +1,4 @@
-###Daily Coding Problem #6
+### Daily Coding Problem #6
 
 This problem was asked by Google.
 

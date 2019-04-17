@@ -1,4 +1,4 @@
-###Daily Coding Problem #5
+### Daily Coding Problem #5
 
 This problem was asked by Jane Street.
 

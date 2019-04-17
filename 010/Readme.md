@@ -1,4 +1,4 @@
-###Daily Coding Problem #10
+### Daily Coding Problem #10
 
 This problem was asked by Apple.
 
